@@ -1,4 +1,4 @@
-package Javatech;
+package LacoRepeticao;
 
 import java.util.Scanner;
 
@@ -23,11 +23,12 @@ public class Exc5 {
 		
 		System.out.println("A soma dos numeros positivos é: "+ soma);
 		
-		
-		
-		
-		
 	}
+}	
+		
+		
+		
+
 	
 		
      
